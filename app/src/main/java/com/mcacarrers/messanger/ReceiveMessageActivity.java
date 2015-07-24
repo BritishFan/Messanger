@@ -24,4 +24,6 @@ public class ReceiveMessageActivity extends Activity {
         messageView.setText(messageText);
     }
 
+    //minor change for github
+
 }
